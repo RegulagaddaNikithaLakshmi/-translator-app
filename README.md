@@ -32,8 +32,11 @@ Netlify – Hosting the live app
 
 🚀 Installation
 git clone https://github.com/RegulagaddaNikithaLakshmi/-translator-app
+
 cd -translator-app
+
 npm install
+
 npm start
 
 
