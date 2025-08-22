@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+Translator App
+Project Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple translator app built with React that allows users to translate text between multiple languages instantly.
 
-## Available Scripts
+Features
 
-In the project directory, you can run:
+Translate text between multiple languages.
 
-### `npm start`
+Real-time translation with instant results.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Responsive design for desktop and mobile.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+User-friendly interface.
 
-### `npm test`
+Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+React.js – A JavaScript library for building user interfaces
 
-### `npm run build`
+HTML – Structure of the app
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+CSS – Styling the app
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Tailwind CSS – Utility-first CSS framework for rapid UI styling
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+JavaScript – Logic and interactivity
 
-### `npm run eject`
+RapidAPI – Platform to access translation APIs
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Netlify – Hosting the live app
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Installation
+git clone https://github.com/RegulagaddaNikithaLakshmi/-translator-app
+cd -translator-app
+npm install
+npm start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Open browser at http://localhost:3000
 
-## Learn More
+Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Enter text to translate.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Select source and target languages.
 
-### Code Splitting
+Click Translate to see the result.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Live Demo
 
-### Analyzing the Bundle Size
+Check out the live app: https://translator-app-nikitha.netlify.app/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+Contributors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Nikitha Regulagadda – Developer
 
-### Advanced Configuration
+License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+MIT License
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
