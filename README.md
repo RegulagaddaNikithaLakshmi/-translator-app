@@ -1,6 +1,6 @@
 **🈳 Translator App**
 
-🌍 Project Overview
+🌍 Project Overview:
 
 A simple translator app built with React that allows users to translate text between multiple languages instantly.
 
@@ -14,7 +14,7 @@ A simple translator app built with React that allows users to translate text bet
 
 ✏️ User-friendly interface
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 
 React.js – A JavaScript library for building user interfaces
 
@@ -30,7 +30,8 @@ RapidAPI – Platform to access translation APIs
 
 Netlify – Hosting the live app
 
-🚀 Installation
+🚀 Installation:
+
 git clone https://github.com/RegulagaddaNikithaLakshmi/-translator-app
 
 cd -translator-app
@@ -42,7 +43,7 @@ npm start
 
 Open browser at http://localhost:3000
 
-🎯 Usage
+🎯 Usage:
 
 📝 Enter text to translate
 
@@ -50,13 +51,10 @@ Open browser at http://localhost:3000
 
 ✅ Click Translate to see the result
 
-🌐 Live Demo
+🌐 Live Demo:
 
 Check out the live app: https://translator-app-nikitha.netlify.app/
 
-📸 Screenshots
-
-(Optional: add 2–3 screenshots of the app here)
 
 👩‍💻 Contributors
 
